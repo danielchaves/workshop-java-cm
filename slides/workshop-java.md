@@ -18,20 +18,20 @@
 
 
 ### Agenda
-    - Conceitos REST
-    ```
-    GET, POST, PUT, DELETE, PATCH...
-    ```
-    - Iniciando com Spring Boot
-    - Hello API
-        `/hello`
-    - Modelos e pesistência
-    - API CRUD
-    - Validações
-    - Querying
-        - FiQL
-        - GraphQL
-        - Paginação
+- Conceitos REST
+```
+GET, POST, PUT, DELETE, PATCH...
+```
+- Iniciando com Spring Boot
+- Hello API
+    `/hello`
+- Modelos e pesistência
+- API CRUD
+- Validações
+- Querying
+    - FiQL
+    - GraphQL
+    - Paginação
     
 
 
