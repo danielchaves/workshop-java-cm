@@ -21,9 +21,9 @@
 
 ### Agenda
 #### Dia 1
-- Conceitos REST `GET, POST, PUT, DELETE, PATCH...`
+- Conceitos REST - `GET, POST, PUT, DELETE, PATCH...`
 - Iniciando com Spring Boot
-- Hello API `/hello`
+- Hello API - `/hello`
 - Modelos e pesistência
 - API CRUD
 
