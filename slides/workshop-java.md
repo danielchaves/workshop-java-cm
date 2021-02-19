@@ -1,6 +1,3 @@
-[//]: # (Para incluir um slide à direita insira 2 quebras de linha seguidas)
-[//]: # (Para incluir um slide abaixo insira 3 quebras de linha seguidas)
-[//]: # (Para incluir uma nota, insira a tag expressão "Note:")
 #### DevAcademy 
 
 
