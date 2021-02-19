@@ -12,7 +12,7 @@
 
 
 #### Giva
-- Programou o a abertura do portão da caverna de tesouros de Alibabá. A chave criptografada "Abra-te sésamo" é de autoria dele. Atualmente arquiteto do Varejofacil, é também conhecido como "O Oráculo do varejo".
+- Programou o portão da caverna de tesouros de Alibabá. A chave criptografada "Abra-te sésamo" é de autoria dele. Atualmente arquiteto do Varejofacil, é também conhecido como "O Oráculo do varejo".
 
 
 #### Daniel Chaves
@@ -25,8 +25,11 @@
 - Iniciando com Spring Boot
 - Hello API `/hello`
 - Modelos e pesistência
-#### Dia 2
 - API CRUD
+
+
+### Agenda
+#### Dia 2
 - Validações
 - Querying
  - FiQL
