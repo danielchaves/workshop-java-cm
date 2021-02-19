@@ -1,22 +1,33 @@
 #### DevAcademy 
 
 
+
 ## Desenvolvendo APIs REST com Java
 
 
+
+![Image](imagens/java-json.png)
+
+
+
 ### Facilitadores:
+Note: Essas descrições são parcialmente baseado na realidade...
+
 
 
 #### Pablo Monteiro
 - Java dev há 200 anos, trocou o chapéu de vaqueiro e a botina pelo teclado e mouse. Hoje é Dev leader na Casa Magalhães e um dos veteranos no time do Varejofacil.
 
 
+
 #### Giva
 - Programou o portão da caverna de tesouros de Alibabá. A chave criptografada "Abra-te sésamo" é de autoria dele. Atualmente arquiteto do Varejofacil, é também conhecido como "O Oráculo do varejo".
 
 
+
 #### Daniel Chaves
 - Quando criança, mamãe bateu na cabeça dele e disse: "Esse menino vai ser programador Java". Em 2005 a profecia se concretizou e hoje é arquiteto do Varejofacil.
+
 
 
 ### Agenda
@@ -28,6 +39,7 @@
 - API CRUD
 
 
+
 ### Agenda
 #### Dia 2
 - Validações
@@ -35,6 +47,22 @@
  - FiQL
  - GraphQL
  - Paginação
+
+
+
+#### Teste de Exemplo de código
+```java
+@RestController
+public class HelloController {
+
+    @GetMapping("/hello")
+    public String hello(@AuthenticationPrincipal Principal principal) {
+        return "Hello, " + principal.getName() + "!";
+    }
+
+}
+```
+
 
 
 ## Cabou-se
