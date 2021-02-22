@@ -114,8 +114,8 @@ Note: Resposta textual (HTML, XML, JSON) e status HTTP. HATEOAS concede links pa
 
 
 #### HTTP _Methods_
-- `GET`    - Obter informação do(s) recurso
-- `POST`   - Recurso processar a informação contida na requisição
+- `GET`    - Obter informação do(s) recurso(s)
+- `POST`   - Processar a informação contida na requisição
 - `PUT`    - Alterar o estado do recurso para o estado contido na requisição
 - `DELETE` - Delete né =]
 Note: Esses são muito usados
@@ -131,7 +131,7 @@ Note: menos usados mas muito útis. Tem mais... TRACE - rastreio de rede, retorn
 
 
 #### HTTP _Status_
-- 1xx - Resposta informativa
+- 1xx - Resposta informativa parcial
 - 2XX - Deu certo, chapa.
 - 3XX - Sei não, pergunta ali...
 - 4XX - Deu bom não, mas eh contigo...
